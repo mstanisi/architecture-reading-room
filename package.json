@@ -1,0 +1,25 @@
+{
+  "name": "architecture-reading-room",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstanisi/architecture-reading-room.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstanisi/architecture-reading-room/issues"
+  },
+  "homepage": "https://github.com/mstanisi/architecture-reading-room#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "pg": "^8.14.1"
+  }
+}
